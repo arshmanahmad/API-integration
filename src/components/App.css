@@ -1,0 +1,25 @@
+.row {
+    background-color: rgb(197, 212, 221);
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.one {
+    height: 35rem;
+}
+
+.one h1 {
+    font-weight: 700;
+}
+
+.three {
+    border: 0.5px;
+    height: 15rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 28rem;
+    border-radius: 1rem;
+}
